@@ -1,0 +1,18 @@
+.imgTshirt {
+    position: relative;
+}
+
+.memeText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.memeText img{
+    max-width: 300px;
+}
+.memeText p{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
